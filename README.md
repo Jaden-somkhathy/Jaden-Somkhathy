@@ -54,18 +54,9 @@ fun_fact: "I turn ideas into interfaces — then make the interfaces move."
 
 ### 🛠️ Tech Stack
 
-<img src="https://img.icons8.com/3d-fluency/94/html-5.png" width="60" title="HTML5"/>
-<img src="https://img.icons8.com/3d-fluency/94/css3.png" width="60" title="CSS3"/>
-<img src="https://img.icons8.com/3d-fluency/94/javascript.png" width="60" title="JavaScript"/>
-<img src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" width="60" title="Java"/>
-<img src="https://img.icons8.com/3d-fluency/94/python.png" width="60" title="Python"/>
-<img src="https://img.icons8.com/3d-fluency/94/sql.png" width="60" title="SQL"/>
-<img src="https://img.icons8.com/3d-fluency/94/git.png" width="60" title="Git"/>
-<img src="https://img.icons8.com/3d-fluency/94/github.png" width="60" title="GitHub"/>
-<img src="https://img.icons8.com/3d-fluency/94/visual-studio-code-2019.png" width="60" title="VS Code"/>
-<img src="https://img.icons8.com/3d-fluency/94/figma.png" width="60" title="Figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode,figma&theme=dark" />
 
-*(Swap/add icons anytime — full library at [icons8.com/icons/3d-fluency](https://icons8.com/icons/set/3d-fluency))*
+*(Swap/add icons anytime — full library and codes at [skillicons.dev](https://skillicons.dev))*
 
 </div>
 
